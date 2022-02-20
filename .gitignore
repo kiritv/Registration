@@ -1,0 +1,13 @@
+
+*.class
+target/classes/application.properties
+target/classes/application-prod.properties
+target/classes/application-local.properties
+.idea/azure/azureSettings.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/jpa-buddy.xml
+.idea/misc.xml
+.idea/vcs.xml
+.DS_Store
