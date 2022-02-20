@@ -62,7 +62,7 @@ Content-Type: application/json
 ```
 ### Get User Request
 ```http
-GET http://localhost:8080/users HTTP/1.1
+GET http://localhost:8080/users/ HTTP/1.1
 Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
 ```
 ### Get User Response
@@ -79,7 +79,7 @@ Content-Type: application/json
 ```
 ### Update User Request
 ```http
-PUT http://localhost:8080/users HTTP/1.1
+PUT http://localhost:8080/users/ HTTP/1.1
 Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
 Content-Type: application/json
 
